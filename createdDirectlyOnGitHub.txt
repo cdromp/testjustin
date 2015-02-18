@@ -1,0 +1,4 @@
+here is a text file
+that i edited directly in github without saving to my local drive first
+
+so just copy the contents in here for now
